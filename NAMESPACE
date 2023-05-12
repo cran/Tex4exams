@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("fractional",denominators,numerators, fractional)
+importFrom("numbers",primeFactors, radical)
+importFrom("polynom",polynomial)
+importFrom("pracma",polydiv,Lcm)
